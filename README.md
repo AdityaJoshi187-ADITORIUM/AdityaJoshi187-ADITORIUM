@@ -2,12 +2,12 @@
 ================================================================================
 A Geeky😁 Data Enthusiast from India🌎 who is interested in Machine learning, Deep Learning, Software Development
 
-* 🌍  I'm based in India IN(+91)
+* 🌍  I'm based in India IN(+91)<p align="centre"> <img src="https://komarev.com/ghpvc/?username=adityajoshi187-aditorium&label=Profile%20views&color=0e75b6&style=flat" alt="adityajoshi187-aditorium" /> </p>
 * ✉️  You can contact me at [adityajoshi187@gmail.com](mailto:adityajoshi187@gmail.com)
 * 🧠  I'm learning Tensorflow, PyTorch, web development concepts.
 * 🤝  I'm open to collaborating on Data Science, Web Development projects
 * ⚡  It’s all 0’s and 1’s.
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=adityajoshi187-aditorium&label=Profile%20views&color=0e75b6&style=flat" alt="adityajoshi187-aditorium" /> </p>
+
 ### Skills
 
 

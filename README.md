@@ -1,5 +1,5 @@
 <h1 align="center">Hi !<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF"/> My name is Aditya!!</h1>
-====================================================================
+==============================================================================
 A Geeky😁 Data Enthusiast from India🌎 who is interested in Machine learning, Deep Learning, Software Development
 
 * 🌍  I'm based in India IN(+91)

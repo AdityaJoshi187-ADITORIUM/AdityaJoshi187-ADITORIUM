@@ -6,11 +6,11 @@ A Geeky😁 Data Enthusiast from India🌎 who is interested in Machine learning
 
 </p><p align="centre"> <img src="https://komarev.com/ghpvc/?username=adityajoshi187-aditorium&label=Profile%20views&color=0e75b6&style=flat" alt="adityajoshi187-aditorium" /> </p></p>
 
-</p>* 🌍  I'm based in India IN(+91)</p>
-</p>* ✉️  You can contact me at [adityajoshi187@gmail.com](mailto:adityajoshi187@gmail.com)</p>
+</p>* 🌍  I operate from India IN(+91)</p>
+</p>* ✉️  You can hit me up via [adityajoshi187@gmail.com](mailto:adityajoshi187@gmail.com)</p>
 </p>* 🧠  I'm learning Tensorflow, PyTorch, web development concepts.</p>
 </p>* 🤝  I'm open to collaborating on Data Science, Web Development projects</p>
-</p>* ⚡  It’s all 0’s and 1’s.</p>
+</p>* ⚡   Parent: If all your friends jumped off a bridge, would you follow them? Machine Learning Algorithm: yes.</p>
 
 ### Skills
 

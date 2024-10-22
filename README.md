@@ -10,7 +10,8 @@ A Geeky😁 Data Enthusiast from India🌎 who is interested in Machine learning
 </p>* ✉️  You can hit me up via [adityajoshi187@gmail.com](mailto:adityajoshi187@gmail.com)</p>
 </p>* 🧠  I'm learning Tensorflow, PyTorch, web development concepts.</p>
 </p>* 🤝  I'm open to collaborating on Data Science, Web Development projects</p>
-</p>* ⚡   Parent: If all your friends jumped off a bridge, would you follow them? Machine Learning Algorithm: yes.</p>
+</p>* ⚡   Parent: If all your friends jumped off a bridge, would you follow them? 
+Machine Learning Algorithm: yes.</p>
 
 ### Skills
 

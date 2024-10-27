@@ -13,7 +13,6 @@ A Geeky😁 Data Enthusiast from India🌎 who's interested in Machine learning,
 </p>* 🤝  I'm open to collaborating on Data Science, Web Development projects</p>
 </p>* ⚡   Parent: If all your friends jumped off a bridge, would you follow them? <br> Machine Learning Algorithm: yes {Brocode🗿}.</p>
 
-<p><a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"></a></p> 
 ### Skills
 
 

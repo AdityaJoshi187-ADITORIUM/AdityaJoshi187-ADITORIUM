@@ -1,10 +1,11 @@
 <h1 align="center">Hii!<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF"/> My name is Aditya!!</h1>
 <h1 align="center"><img src="https://github.com/AdityaJoshi187-ADITORIUM/AdityaJoshi187-ADITORIUM/blob/main/GREETINGS.gif" alt="GIF"/></h1>
 ======================================================================================== <br>
-A Geeky😁 Data Enthusiast from India🌎 who is interested in Machine learning, Deep Learning, Software Development.
+A Geeky😁 Data Enthusiast from India🌎 who's interested in Machine learning, Deep Learning, Software Development.
 
 
-</p><p align="centre"> <img src="https://komarev.com/ghpvc/?username=adityajoshi187-aditorium&label=Profile%20views&color=0e75b6&style=flat" alt="adityajoshi187-aditorium" /> </p></p>
+</p><p align="centre"> <img src="https://komarev.com/ghpvc/?username=adityajoshi187-aditorium&label=Profile%20views&color=0e75b6&style=flat" alt="adityajoshi187-aditorium" /> </p>
+</p>
 
 </p>* 🌍  I operate from India IN(+91)</p>
 </p>* ✉️  You can hit me up via [adityajoshi187@gmail.com](mailto:adityajoshi187@gmail.com)</p>
@@ -12,7 +13,7 @@ A Geeky😁 Data Enthusiast from India🌎 who is interested in Machine learning
 </p>* 🤝  I'm open to collaborating on Data Science, Web Development projects</p>
 </p>* ⚡   Parent: If all your friends jumped off a bridge, would you follow them? <br> Machine Learning Algorithm: yes {Brocode🗿}.</p>
 
-</p https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix> 
+<p><a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"></a></p> 
 ### Skills
 
 

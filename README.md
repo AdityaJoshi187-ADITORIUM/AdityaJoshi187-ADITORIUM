@@ -13,7 +13,6 @@ A Geeky😁 Data Enthusiast from India🌎 who's interested in Machine learning,
 </p>* 🤝  I'm open to collaborating on Data Science, Web Development projects</p>
 </p>* ⚡   Parent: If all your friends jumped off a bridge, would you follow them? <br> Machine Learning Algorithm: yes {Brocode🗿}.</p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdityaJoshi187-ADITORIUM&theme=matrix" alt="Trophy" /></a></p>
 
 ### Skills
 
